@@ -43,7 +43,7 @@ Another way to look at the elastos platform is to imagine it being a self sustai
 
 ---
 
-### Elastos platform has no gas fees unline other platforms
+### Elastos platform has no gas fees unlike other platforms
 
 On elastos platform, there are no gas fees. Different DApps can build their own sidechains to issue their own tokens for different purposes. It’s up to these sidechains where smart contracts will be run that are going to decide whether they want to charge gas for certain transactions. Elastos won’t be charging any gas fees of its own. However, the sidechains themselves may charge gas fees of their own to run smart contracts.
 
